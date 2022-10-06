@@ -23,5 +23,20 @@ while(!outOfGuesses)
         outOfGuesses = true;
         Console.WriteLine("You hear the footsteps stop and something grabs you. Everything goes dark. You lose.");
     }
+    Hints();
 }
-
+void Hints()
+{
+    if (guessCount == 2)
+    {
+        Console.WriteLine("You recall the store is called ODD fellows.");
+    }
+    if (guessCount == 3)
+    {
+        Console.WriteLine("You remeber that the NUMBERS you saw on the doors where all ODD");
+    }
+    if (guessCount == 4)
+    {
+        Console.WriteLine("You remmeber the ODD NUMBERS all went from Smallest to largest.");
+    }
+}
