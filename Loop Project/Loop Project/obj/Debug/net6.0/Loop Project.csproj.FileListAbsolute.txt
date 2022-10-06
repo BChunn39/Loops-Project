@@ -1,0 +1,15 @@
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.csproj.AssemblyReference.cache
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.AssemblyInfoInputs.cache
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.AssemblyInfo.cs
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.csproj.CoreCompileInputs.cache
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\bin\Debug\net6.0\Loop Project.exe
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\bin\Debug\net6.0\Loop Project.deps.json
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\bin\Debug\net6.0\Loop Project.runtimeconfig.json
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\bin\Debug\net6.0\Loop Project.dll
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\bin\Debug\net6.0\Loop Project.pdb
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.dll
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\refint\Loop Project.dll
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.pdb
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\Loop Project.genruntimeconfig.cache
+C:\Users\Chunn Family\source\repos\Loop Project\Loop Project\obj\Debug\net6.0\ref\Loop Project.dll

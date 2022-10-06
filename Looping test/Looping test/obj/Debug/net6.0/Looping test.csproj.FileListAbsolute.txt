@@ -1,0 +1,15 @@
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\bin\Debug\net6.0\Looping test.exe
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\bin\Debug\net6.0\Looping test.deps.json
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\bin\Debug\net6.0\Looping test.runtimeconfig.json
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\bin\Debug\net6.0\Looping test.dll
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\bin\Debug\net6.0\Looping test.pdb
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.csproj.AssemblyReference.cache
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.AssemblyInfoInputs.cache
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.AssemblyInfo.cs
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.csproj.CoreCompileInputs.cache
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.dll
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\refint\Looping test.dll
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.pdb
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\Looping test.genruntimeconfig.cache
+C:\Users\Chunn Family\source\repos\Looping test\Looping test\obj\Debug\net6.0\ref\Looping test.dll

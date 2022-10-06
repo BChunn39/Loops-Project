@@ -1,0 +1,15 @@
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\bin\Debug\net6.0\Loops again.exe
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\bin\Debug\net6.0\Loops again.deps.json
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\bin\Debug\net6.0\Loops again.runtimeconfig.json
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\bin\Debug\net6.0\Loops again.dll
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\bin\Debug\net6.0\Loops again.pdb
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.csproj.AssemblyReference.cache
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.AssemblyInfoInputs.cache
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.AssemblyInfo.cs
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.csproj.CoreCompileInputs.cache
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.dll
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\refint\Loops again.dll
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.pdb
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\Loops again.genruntimeconfig.cache
+C:\Users\Chunn Family\source\repos\Loops again\Loops again\obj\Debug\net6.0\ref\Loops again.dll
